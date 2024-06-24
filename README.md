@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [SecondHand](https://github.com/whyrupesh/SecondHand-website)
 
-- 👨‍💻 All of my projects are available at [whyrupesh.tech](whyrupesh.tech)
+- 👨‍💻 All of my projects are available at ([whyrupesh.tech](https://whyrupesh.tech/))
 
 - 📫 How to reach me **srupeshkumar800@gmail.com**
 
